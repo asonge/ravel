@@ -1,0 +1,3 @@
+[ "ex_doc": {:git, "git://github.com/elixir-lang/ex_doc.git", "dc0397d15686315dad653ed13c4836e4c6ef54e3", []},
+  "excheck": {:git, "git://github.com/parroty/excheck.git", "e4c966cdaffc512d4c0cf581a46a23c47ac54f48", []},
+  "triq": {:git, "git://github.com/krestenkrab/triq.git", "15d9ca06f88b9944bb744ccb234cef205bc6d1b3", []} ]
